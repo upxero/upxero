@@ -1,4 +1,4 @@
-## Hi there, I'm [Mike](https://www.linkedin.com/in/upxero/) 👋, the proud owner of **Upxero**, a dynamic web design agency.
+##Hi there, I'm [Mike](https://www.linkedin.com/in/upxero/) 👋, the proud owner of **Upxero**, a dynamic web design agency.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/upxero/">
