@@ -1,4 +1,4 @@
-## Hi there, I'm [Mike Bernard](https://www.linkedin.com/in/upxero/) 👋
+## Hi there, I'm [Mike Bernard](https://www.linkedin.com/in/upxero/) 👋, the proud owner of **Upxero**, a dynamic web design agency.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/upxero/">
@@ -8,7 +8,9 @@
 
 <br/>
 
-Welcome to my GitHub profile! I'm currently a student at [Novi University of Applied Sciences](https://www.novi.nl/) in Utrecht, pursuing the Full Stack Developer program. Throughout this 12-month journey, I have mastered a variety of programming languages in both front-end and back-end development.
+Welcome to my GitHub profile! In addition to being a student at [Novi University of Applied Sciences](https://www.novi.nl/) in Utrecht, where I am pursuing the Full Stack Developer program, I also lead Upxero, an innovative web design bureau specializing in creating visually stunning and highly functional websites.
+
+Throughout my 12-month journey at Novi University, I have honed my skills in a variety of programming languages and techniques for both front-end and back-end development, ensuring that Upxero delivers cutting-edge solutions to our clients.
 
 ### Frontend :computer:
 ![Frontend Skills](https://skillicons.dev/icons?i=vscode,html,css,javascript,react,wordpress,figma)
@@ -16,4 +18,8 @@ Welcome to my GitHub profile! I'm currently a student at [Novi University of App
 ### Backend :gear:
 ![Backend Skills](https://skillicons.dev/icons?i=idea,java,spring,postgresql,postman)
 
-Feel free to explore my ongoing journey! If you'd like to connect or learn more, don't hesitate to reach out to me via [LinkedIn](https://www.linkedin.com/in/upxero/).
+At Upxero, we believe in creating seamless user experiences that meld stunning designs with robust functionality. Our dedication to excellence and innovation has made us a trusted partner for businesses seeking to establish a compelling online presence.
+
+Feel free to explore my ongoing personal and professional journey! If you'd like to connect, collaborate, or learn more about Upxero's services, don't hesitate to reach out to me via [LinkedIn](https://www.linkedin.com/in/upxero/) or visit our website [www.upxero.com](https://www.upxero.com/).
+
+Thank you for stopping by!
