@@ -1,4 +1,4 @@
-## Hi there, I'm [Mike](https://www.linkedin.com/in/upxero/) 👋, the proud owner of **Upxero**, a dynamic web design agency.
+## Hi there, I'm [Mike](https://www.linkedin.com/in/upxero/) 👋, an experienced and results-driven freelance professional with a passion for digital business.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/upxero/">
@@ -8,18 +8,28 @@
 
 <br/>
 
-Welcome to my GitHub profile! I recently completed the Full Stack Developer Bootcamp at [Novi University of Applied Sciences](https://www.novi.nl/) in Utrecht, a transformative journey that has equipped me with comprehensive skills in both front-end and back-end development. Alongside my education, I lead Upxero, an innovative web design bureau specializing in creating visually stunning and highly functional websites.
+Welcome to my GitHub profile! I'm passionate about digital business and bring a wealth of experience in collaborative teamwork, remote work, and efficient process management as a freelancer.
 
-Throughout my intensive training at Novi, I immersed myself in a variety of programming languages and techniques, mastering tools for creating seamless user experiences. This proficiency allows Upxero to deliver cutting-edge solutions to our clients.
+Throughout my intensive training at Novi University of Applied Sciences, I immersed myself in a variety of programming languages and techniques, mastering tools for creating seamless user experiences. This proficiency allows Upxero to deliver cutting-edge solutions to our clients.
 
-### Frontend :computer:
+### Frontend 💻
 ![Frontend Skills](https://skillicons.dev/icons?i=vscode,html,css,javascript,react,wordpress,figma)
 
-### Backend :gear:
+### Backend ⚙
 ![Backend Skills](https://skillicons.dev/icons?i=idea,java,spring,postgresql,postman)
 
-At Upxero, our mission is to craft user experiences that combine stunning designs with robust functionality. Our commitment to excellence and innovation has established us as a trusted partner for businesses aiming to establish a compelling online presence.
+In addition to my freelance work, I've led Upxero, a dynamic web design agency, delivering high-quality and innovative solutions to clients.
 
-Feel free to explore my ongoing personal and professional journey! If you'd like to connect, collaborate, or learn more about Upxero's services, don't hesitate to reach out to me via [LinkedIn](https://www.linkedin.com/in/upxero/) or visit our website [www.upxero.com](https://www.upxero.com/).
+I'm committed to crafting user-centric experiences that blend design with functionality. My drive for excellence and innovation has positioned me as a trusted partner for businesses seeking a compelling online presence.
+
+Feel free to explore my ongoing journey! If you'd like to connect, collaborate, or learn more about my services, don't hesitate to reach out via [LinkedIn](https://www.linkedin.com/in/upxero/) or visit my website [www.upxero.com](https://www.upxero.com/).
 
 Thank you for stopping by!
+
+
+
+
+
+
+
+
